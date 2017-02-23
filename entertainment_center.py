@@ -6,9 +6,8 @@ must watch movies.
 Examples:
     List the must watch movies (opinionated)
 
-        $ python media.py
+        $ python entertainment_center.py
 """
-
 from media import Movie
 from fresh_tomatoes import open_movies_page
 

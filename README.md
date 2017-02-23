@@ -6,7 +6,7 @@ Udacity Movie Trailer Website
 ![](./screenshot.png)
 
 
-# Pre requesites
+# Prerequisites
 To execute this project you will need `python` and `git` installed in your computer.
 
 It works with both python 2 and python 3.
